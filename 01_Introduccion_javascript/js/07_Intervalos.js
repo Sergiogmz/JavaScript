@@ -9,7 +9,7 @@ var intervalo = setInterval(function(){
 
     segundos++;
     tiempo.innerHTML = segundos;
-    //tiempo.innerHTML += segundos;
+    //tiempo.innerHTML += segundos; En este caso concatenamos caracteres
 
 }, 1000);
 
