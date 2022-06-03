@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------------- 
             CLASES CREADAS POR EL DESARROLADOR
             (Otras clases vienen ya predefinidas, por ejemplo: 
-            String, Number, Boolean) 
+            String, Number, Boolean, Array) 
 ---------------------------------------------------------------------*/
 
 function Persona(){
